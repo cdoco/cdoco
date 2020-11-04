@@ -2,10 +2,10 @@
 
 > 🍓 一个爱写代码的旅游爱好者。
 
-<a href="#">
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=cdoco&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdoco&layout=compact&hide_border=true&title_color=a0a9af">
-</a>
+<p>
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=cdoco&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdoco&layout=compact&hide_border=true&title_color=a0a9af">
+</p>
 
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
