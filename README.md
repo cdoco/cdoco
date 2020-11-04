@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif?1490885301" width="30"/> Hey, nice to see you.</h2>
 
-> Life is strange.
+> 🍓 一个爱写代码的旅游爱好者。
 
 <a href="#">
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=cdoco&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
